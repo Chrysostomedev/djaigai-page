@@ -75,7 +75,7 @@ export function HeroSection() {
 
             <h1 className="font-[family-name:var(--font-plus-jakarta)] text-4xl sm:text-5xl lg:text-6xl font-extrabold text-navy-900 leading-[1.1] tracking-tight">
               Où est passé{" "}
-              <span className="text-gradient-brand">mon linge</span>
+              <span className="text-gradient-brand">mon habit</span>
               <span className="text-navy-300"> ?</span>
             </h1>
 
